@@ -7,8 +7,7 @@
 
 ## 👨‍💻 About me
 
-### Curious developer who interested in the abstractions in tech.
-### 🌱 I’m currently learning how react works under the hood .
+### Curious developer who paying off his ignorance in tech
 
 ## 💼 Languages and Tools
 
