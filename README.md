@@ -7,7 +7,8 @@
 
 ## 👨‍💻 About me
 
-### Curious developer who paying off his ignorance in tech
+### Hi, I'm Darren Pierre, a dedicated Fullstack Developer based in Ottawa. My expertise spans various programming languages, including Java, React Js, Python, SQL, JavaScript, HTML, CSS, MongoDB, and PostgreSQL. I earned my degree in Computer Science, which has given me a solid foundation in problem-solving and algorithmic thinking. Over the years, I've honed my front-end and back-end development skills, focusing on creating seamless user experiences and robust back-end infrastructures. Throughout my career, I've been committed to continuous learning and staying updated with the latest industry trends and best practices. This dedication to professional growth has helped me build a reputation as a reliable and innovative Fullstack Developer.
+
 
 ## 💼 Languages and Tools
 
@@ -85,7 +86,7 @@
 <table align='center'>
     <tr>
         <td>
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darrenpierre90&theme=dark&hide_border=false)" alt="weijiezhang's github stats" />
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darrenpierre90&theme=dark&hide_border=false)" alt="darrenpierre's github stats" />
         </td>
         <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenpierre90&theme=dark&show_icons=true&hide_border=false&layout=compact" />
