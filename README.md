@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About me
 
-### Hi, I'm Darren Pierre, a dedicated Fullstack Developer based in Ottawa. My expertise spans various programming languages, including Java, React Js, Python, SQL, JavaScript, HTML, CSS, MongoDB, and PostgreSQL. I earned my degree in Computer Science, which has given me a solid foundation in problem-solving and algorithmic thinking. Over the years, I've honed my front-end and back-end development skills, focusing on creating seamless user experiences and robust back-end infrastructures. Throughout my career, I've been committed to continuous learning and staying updated with the latest industry trends and best practices. This dedication to professional growth has helped me build a reputation as a reliable and innovative Fullstack Developer.
+### Hi, I'm Darren Pierre, a dedicated Fullstack Developer based in Ottawa.
 
 
 ## 💼 Languages and Tools
