@@ -96,7 +96,7 @@
 
 ## 📫 How to reach me:
 
-### Feel free to email me at darrengpierre@gmail.com
+### Feel free to email me at darrengpierre[at] gmail.com
 
 <!--
 
